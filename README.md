@@ -1,8 +1,8 @@
 # Sistema de Locadora Vem de Hexa
 🇧🇷 Rumo ao Hexa!
 
- Apresentação Oficial [ [] [] [] []
- -
+
+ 
 
 ## Projeto Website - Vem de Hexa
 Sistema web desenvolvido para a Vem de Hexa, empresa especializada em locação de decorações temáticas para Copa do Mundo 2026. O projeto contempla autenticação de usuários, gerenciamento completo de itens de decoração e cálculo de aluguéis, seguindo metodologia SCRUM em 3 sprints.
@@ -87,13 +87,12 @@ Relatório técnico ABNT
 
  Identidade Visual - Vem de Hexa
  -
-Cor	Uso	HEX	RGB
-Verde Brasil	Principal	#009C3B	0,156,59
-Amarelo Ouro	Destaque	#FFDF00	255,223,0
-Branco	Fundo	#FFFFFF	255,255,255
-Preto	Texto	#141414	20,20,20
-Tipografia: Roboto Condensed
-Layout: Responsivo, limpo, com foco em UX para locação rápida
+| Cor          | Uso       | HEX     | RGB         |
+| ------------ | --------- | ------- | ----------- |
+| Verde Brasil | Principal | #009C3B | 0,156,59    |
+| Amarelo Ouro | Destaque  | #FFDF00 | 255,223,0   |
+| Branco       | Fundo     | #FFFFFF | 255,255,255 |
+| Preto        | Texto     | #141414 | 20,20,20    |
 
 
  Protótipos Figma
@@ -115,12 +114,13 @@ Daily Meetings: Acompanhamento diário ClickUp
 
 Equipe de Desenvolvimento
 -
-Nome	Função	Contato
-Pedro de Oliveira	Product Owner	pedrokssp@gmail.com
-[Isabella Radael]	Scrum Master	isabella.radael@aluno.senai.br
-[Giovanna Alves]	Desenvolvedor	giovanna.a.santos8@aluno.senai.br
-[Nicolas Fernandes]	Desenvolvedor	nicolas.f.santos16@aluno.senai.br
-[Nome 4]	Desenvolvedor	email@aluno.senai.br
+| Nome            | Função        | Contato                        |
+| --------------- | ------------- | ------------------------------ |
+| Isabella Radaél | Scrum Master  | isabella.radael@aluno.senai.br |
+|Pedro de Oliveira| Product Owner | pedrokssp@gmail.com            |
+| Giovanna Alves  | Desenvolvedor | giovanna.a.santos8@aluno.senai.br|
+| Nicolas Fernandes| Desenvolvedor | nicolas.f.santos16@aluno.senai.br|
+| [Nome 4]        | Desenvolvedor | email@aluno.senai.br           |
 
  Documentação ABNT
  -
