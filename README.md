@@ -1,138 +1,154 @@
-# Sistema de Locadora Vem de Hexa
-🇧🇷 Rumo ao Hexa!
+<div align="center">
 
+# Sistema de Locadora Vem de Hexa  
+### ⚽ Rumo ao Hexa!
 
- 
+[![Canva](https://img.shields.io/badge/Canva-Apresentação-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
 
-## Projeto Website - Vem de Hexa
-Sistema web desenvolvido para a Vem de Hexa, empresa especializada em locação de decorações temáticas para Copa do Mundo 2026. O projeto contempla autenticação de usuários, gerenciamento completo de itens de decoração e cálculo de aluguéis, seguindo metodologia SCRUM em 3 sprints.
+</div>
 
- Funcionalidades principais:
- --
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-v5.2-009C3B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-v3.1-FFDF00?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-141414?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-v8.0-009C3B?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFDF00?style=for-the-badge&logoColor=black" />
+</p>
 
-Autenticação admin/usuário
+---
 
-Cadastro/aluguel/devolução/exclusão de itens
+# 📚 **Sumário do Projeto**
 
-Cálculo automático de previsão de aluguel
+<p align="center">
+  <a href="#-visão-geral">🎯 Visão Geral</a> •
+  <a href="#-sprint-1--planejamento">📦 Sprint 1</a> •
+  <a href="#-tecnologias-utilizadas">💻 Tecnologias</a> •
+  <a href="#-equipe-de-desenvolvimento">👥 Equipe</a>
+</p>
 
-Interface 100% responsiva
+---
 
- Sumário do Projeto
- -
- 
-🎯 Visão Geral - 📦 Sprint 1 - 📦 Sprint 2 - 📦 Sprint 3 - 💻 Tecnologias - 👥 Equipe
+## ⚙️ Funcionalidades Principais  
 
- Visão Geral
- --
- 
-Sistema de locadora desenvolvido para SENAI-SP (1º semestre 2026) com foco em aluguel flexível de decorações patrióticas:
+| Funcionalidade | Descrição |
+|--------------|----------|
+| 🔐 Autenticação | Login para administrador e usuário |
+| 📦 Gerenciamento | Cadastro, edição e exclusão de itens |
+| 🔄 Controle de aluguel | Registro de aluguel e devolução |
+| 💰 Cálculo automático | Previsão de valor com base na diária |
+| 📱 Responsividade | Interface adaptada para desktop e mobile |
 
-Bandeirinhas "hexa"
+---
 
-Painéis "Rumo ao Hexa"
+## 🎯 Visão Geral  
 
-Balões verde-amarelos
+Sistema desenvolvido na **Escola SENAI A. Jacob Lafer (1º semestre de 2026)** com foco em aluguel de decorações patrióticas.
 
-Luminárias temáticas
+### 📦 Itens disponíveis:
 
-## Sprint 1 - Planejamento
+| Item | Descrição |
+|-----|----------|
+|  Bandeirinhas "Hexa" | Decoração temática para ambientes |
+| 🏆 Painéis "Rumo ao Hexa" | Painéis decorativos |
+| 🎈 Balões verde-amarelos | Kits de balões |
+| 💡 Luminárias temáticas | Iluminação decorativa |
 
- Planejado e Entregue:
- -
+---
 
-Levantamento completo de requisitos
+## 📦 Sprint 1 — Planejamento  
 
-Cronograma visual (ClickUp)
+### 📋 Entregas
 
-Identidade visual (logotipo + cores 🇧🇷)
+| Atividade | Status |
+|----------|--------|
+| Levantamento de requisitos | ✅ Concluído |
+| Cronograma no ClickUp | ✅ Concluído |
+| Identidade visual | ✅ Concluído |
+| Protótipo Figma | ✅ Concluído |
 
-Protótipo Figma (5 telas principais)
+---
 
-Telas desenvolvidas:
+### 🖥️ Telas Desenvolvidas
 
-Página de Login
+| Tela | Descrição |
+|-----|----------|
+| Login/Cadastro | Acesso ao sistema |
+| Tela de admin | Cadastro de produtos, previsão de aluguel e listagem |
+| Tela de usuário | Previsão de aluguel e listagem de produtos |
 
-Dashboard Principal (index.php/template.php)
+---
 
-Adicionar Novo Item
+## 🎨 Identidade Visual - Vem de Hexa  
 
-Calcular Previsão de Aluguel
+| Cor | Uso | HEX | RGB |
+|-----|----|-----|-----|
+| Verde Brasil | Principal | #009C3B | 0,156,59 |
+| Amarelo Ouro | Destaque | #FFDF00 | 255,223,0 |
+| Branco | Fundo | #FFFFFF | 255,255,255 |
+| Preto | Texto | #141414 | 20,20,20 |
 
-Tabela de Itens Cadastrados
+---
 
-## Sprint 2 - Frontend
+## 🎨 Protótipos Figma  
 
- Desenvolvimento:
- -
+| Plataforma | Descrição |
+|----------|----------|
+| 💻 Desktop | Login → Dashboard → Gerenciamento |
+| 📱 Mobile | Telas adaptadas para smartphone |
 
-Interface responsiva completa
+---
 
-Modelagem de dados JSON
+## 💻 Tecnologias Utilizadas  
 
-Telas funcionais no Figma
+| Tecnologia | Uso |
+|-----------|----|
+| HTML5 | Estrutura |
+| CSS3 | Estilização |
+| JavaScript | Interatividade |
+| PHP | Backend |
+| JSON | Armazenamento |
+| Figma | Prototipação |
+| ClickUp | Gestão |
 
-## Sprint 3 - Backend
+---
 
- Implementação final:
- -
+## 👥 Equipe de Desenvolvimento  
 
-PHP completo integrado
+| Nome | Função | Contato |
+|-----|------|--------|
+| Isabella Radael | Scrum Master | isabella.radael@aluno.senai.br |
+| Pedro de Oliveira | Product Owner | pedrokssp@gmail.com |
+| Giovanna Alves | Desenvolvedora | giovanna.a.santos8@aluno.senai.br |
+| Nicolas Fernandes | Desenvolvedor | nicolas.f.santos16@aluno.senai.br |
+| João Pedro Tomazini | Desenvolvedor | joao.p.rodrigues48@aluno.senai.br |
+| Evellyn Silva de Lima | Desenvolvedora | evellyn.s.lima6@aluno.senai.br |
 
-Autenticação e sessões
+---
 
-Gerenciamento CRUD de itens
+## 📄 Documentação ABNT  
 
-Relatório técnico ABNT
+| Conteúdo |
+|---------|
+| Resumo técnico |
+| Introdução |
+| Sobre a empresa |
+| Público-alvo |
+| Metodologia SCRUM |
 
- Identidade Visual - Vem de Hexa
- -
-| Cor          | Uso       | HEX     | RGB         |
-| ------------ | --------- | ------- | ----------- |
-| Verde Brasil | Principal | #009C3B | 0,156,59    |
-| Amarelo Ouro | Destaque  | #FFDF00 | 255,223,0   |
-| Branco       | Fundo     | #FFFFFF | 255,255,255 |
-| Preto        | Texto     | #141414 | 20,20,20    |
+---
 
+## 📌 Status do Projeto  
 
- Protótipos Figma
- -
-Protótipo Completo Vem de Hexa
+| Status |
+|-------|
+| 🚧 Em desenvolvimento |
 
-Desktop: Login → Dashboard → Gerenciamento
-Mobile: Telas adaptadas para smartphone
+---
 
- Metodologia SCRUM
- -
-Scrum Master: Coordenação e remoção de impedimentos
+## Considerações Finais  
 
-Product Owner: Priorização backlog Vem de Hexa
+O projeto **Vem de Hexa** representa a aplicação prática de conceitos de desenvolvimento web, organização ágil e experiência do usuário, resultando em um sistema funcional e escalável.
 
-3 Sprints: Planejamento → Frontend → Backend
+---
 
-Daily Meetings: Acompanhamento diário ClickUp
-
-Equipe de Desenvolvimento
--
-| Nome            | Função        | Contato                        |
-| --------------- | ------------- | ------------------------------ |
-| Isabella Radaél | Scrum Master  | isabella.radael@aluno.senai.br |
-|Pedro de Oliveira| Product Owner | pedrokssp@gmail.com            |
-| Giovanna Alves  | Desenvolvedor | giovanna.a.santos8@aluno.senai.br|
-| Nicolas Fernandes| Desenvolvedor | nicolas.f.santos16@aluno.senai.br|
-| [Nome 4]        | Desenvolvedor | email@aluno.senai.br           |
-
- Documentação ABNT
- -
- 
-Resumo técnico
-
-Introdução projeto
-
-Sobre a Vem de Hexa
-
-Público-alvo detalhado
-
-Metodologia SCRUM
-
-#VemDeHexa #RumoAoHexa 🇧🇷⚽
+### #VemDeHexa #RumoAoHexa ⚽  
