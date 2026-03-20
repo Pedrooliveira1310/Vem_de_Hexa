@@ -90,16 +90,22 @@ Sistema desenvolvido na **Escola SENAI A. Jacob Lafer (1º semestre de 2026)** c
 ---
 
 ## 🎨 Protótipos Figma  
-
-| Plataforma | Descrição |
-|----------|----------|
-| 💻 Desktop | <img width="606" height="410" alt="image" src="https://github.com/user-attachments/assets/a48f7ac7-0f70-4f06-8f46-ba1c0e9a8969" />
-Login → Dashboard → Gerenciamento |
-| 📱 Mobile | Telas adaptadas para smartphone |
-
+  
+| Tela de Login (Desktop) | Tela de Login (Mobile) |
+|------------------------|------------------------|
+|<img width="688" height="444" alt="Login Desktop" src="https://github.com/user-attachments/assets/a774449a-5f03-4ee4-b248-d9ff210f6623" />|<img width="268" height="589" alt="Login Mobile" src="https://github.com/user-attachments/assets/2cbf0d56-4293-4c49-af12-bc584695bc16" />|
 
 ---
 
+| Tela Administrativa (Desktop) | Tela Administrativa (Mobile) |
+|------------------------------|------------------------------|
+|<img width="703" height="456" alt="Admin Desktop" src="https://github.com/user-attachments/assets/4146e817-09ac-46d9-90c3-6fa394e5acc8" />|<img width="269" height="579" alt="Admin Mobile" src="https://github.com/user-attachments/assets/beee0ce0-9a74-49d4-9e97-1baaa8937497" />|
+
+---
+
+| Tela de Usuário (Desktop) | Tela de Usuário (Mobile) |
+|--------------------------|--------------------------|
+|<img width="704" height="462" alt="Usuário Desktop" src="https://github.com/user-attachments/assets/3e63690e-9777-4aa7-a462-0a5d398b1c0f" />|<img width="269" height="584" alt="Usuário Mobile" src="https://github.com/user-attachments/assets/284340a2-b569-406f-8e43-e4d6ed266a1b" />|
 ## 💻 Tecnologias Utilizadas  
 
 | Tecnologia | Uso |
