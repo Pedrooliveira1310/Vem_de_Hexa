@@ -117,6 +117,7 @@ Sistema desenvolvido na **Escola SENAI A. Jacob Lafer (1º semestre de 2026)** c
 | JSON | Armazenamento |
 | Figma | Prototipação |
 | ClickUp | Gestão |
+| Canva | Slides - <a href="https://www.canva.com/design/DAHEaJ-nOyU/_YVGL3vQsJ1OEyenadq56w/edit?utm_content=DAHEaJ-nOyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Acessar Slides</a> |
 
 ---
 
