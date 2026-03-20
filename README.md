@@ -93,8 +93,10 @@ Sistema desenvolvido na **Escola SENAI A. Jacob Lafer (1º semestre de 2026)** c
 
 | Plataforma | Descrição |
 |----------|----------|
-| 💻 Desktop | Login → Dashboard → Gerenciamento |
+| 💻 Desktop | <img width="606" height="410" alt="image" src="https://github.com/user-attachments/assets/a48f7ac7-0f70-4f06-8f46-ba1c0e9a8969" />
+Login → Dashboard → Gerenciamento |
 | 📱 Mobile | Telas adaptadas para smartphone |
+
 
 ---
 
